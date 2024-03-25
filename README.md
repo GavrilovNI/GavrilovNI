@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita Gavrilov
 - 👀 I’m interested in creating software using C#
-- 📖 I speak English, Russian and currently studying Spanish
+- 📖 I speak English, Russian and Spanish
 - 🇪🇸 Currently live in Spain, Valencia
 - 📫 How to reach me:
   - Telegram: https://t.me/IamNikitaGavrilov
